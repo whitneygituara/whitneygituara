@@ -28,13 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Whitney's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitneygituara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitneygituara&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/whitney-gituara-49817b31a/)
